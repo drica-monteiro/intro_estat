@@ -1,2 +1,2 @@
 # intro_estat
-Monitoria Introdução a Estatística 2025
+Monitoria Introdução à Estatística 2025
