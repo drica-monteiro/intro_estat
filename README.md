@@ -12,5 +12,11 @@ The materials are designed to support students in:
 
 - Connecting theoretical content with applied examples
 
-References: All of Statistics - Wasserman and Mathematical Statistics - Rice
+📂 Repository Structure
+
+notebooks/ → Jupyter notebooks with simulations and solved examples
+
+exercises/ → Problem sets and practice activities for students
+
+References: All of Statistics - Wasserman and Mathematical Statistics and Data Analysis- Rice
 
